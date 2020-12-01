@@ -1,6 +1,7 @@
 
+![alt text](https://github.com/scherry2/Fab-Four/blob/main/thebeatles2.jpg)
 
-![](thebeatles2.jpg)
+
 
 
 
@@ -31,7 +32,7 @@
 
 ---
 
-![](dirtyhands.jpg)
+![alt text](https://github.com/scherry2/Fab-Four/blob/main/dirtyhands.jpg)
 
 
 ## We aim to solve for the Investment Issues of the Bulk of the Investment Public
@@ -51,7 +52,7 @@
 * Portfolios that are diversified tend to be closer to the EF line versus those that are not
 
 
-![EFM](EFM.JPG)
+![alt text](https://github.com/scherry2/Fab-Four/blob/main/EFM.JPG)
 
 
 ### Monte Carlo Simulation
@@ -59,8 +60,7 @@
 * Monte Carlo relies on the concept of randomness to project outcomes that might otherwise be deterministic in principle
 
 
-![monte](monte.JPG)
-
+![alt text](https://github.com/scherry2/Fab-Four/blob/main/monte.JPG)
 #### Fab Four, LLC Proprietary Process:
 
 * Fetch Data from Sources Specific to Possible Assets
